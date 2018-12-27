@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':fresco_demo01', ':fanse_demo02', ':zhaojunhui1226', ':week1demo', ':zhaojunhui1227'
